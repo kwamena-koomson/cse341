@@ -1,0 +1,21 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "code to use ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/kwamena-koomson/cse341.git)"
+  },
+  "author": "Kwamena Koomson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
